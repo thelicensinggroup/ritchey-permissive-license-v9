@@ -1,0 +1,1 @@
+# ritchey-permissive-license-v15
